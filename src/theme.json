@@ -1,0 +1,28 @@
+{
+  "name": "simplex-reading",
+  "title": "Simplex Reading",
+  "upstream": "https://bootswatch.com/simplex/",
+  "version": "0.1.0",
+  "palette": {
+    "paper": "#fcfcfc",
+    "ink": "#212529",
+    "panel": "#f4f3f0",
+    "muted": "#5f625d",
+    "link": "#b81d0e",
+    "button": "#b81d0e",
+    "line": "#c8c8c2",
+    "on-button": "#ffffff",
+    "link-hover": "#b81d0e",
+    "button-hover": "#b81d0e",
+    "focus-rgb": "184, 29, 14",
+    "success-bg": "#e6f1e8",
+    "success-ink": "#204b32",
+    "success-line": "#7e9f88",
+    "warning-bg": "#fbf1dc",
+    "warning-ink": "#604414",
+    "warning-line": "#b59a65",
+    "danger-bg": "#f9e9e5",
+    "danger-ink": "#803c32",
+    "danger-line": "#ba8b80"
+  }
+}
